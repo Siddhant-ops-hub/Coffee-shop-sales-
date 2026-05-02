@@ -1,0 +1,60 @@
+ Coffee Shop Sales Analysis Dashboard
+
+## Project Overview
+This project analyzes coffee shop sales data to identify revenue trends, customer buying behavior, top-performing products, and store performance.
+
+## Tools Used
+- Excel
+- Pivot Tables
+- Charts
+- Dashboard Design
+- Data Cleaning
+
+## Key KPIs
+- Total Sales: $698.8K
+- Total Orders: 149,116
+- Total Quantity Sold: 214,470
+- Average Order Value: $4.69
+
+## Key Insights
+
+### 1. Sales Growth Trend
+Sales increased from January to June, reaching the highest revenue in June ($166.5K).
+
+**Business Decision:**  
+Increase stock, staff, and marketing budget during high-growth months.
+
+---
+
+### 2. Best Store Performance
+Hell’s Kitchen generated the highest revenue among all stores.
+
+**Business Decision:**  
+Study this branch strategy and apply same methods to lower-performing stores.
+
+---
+
+### 3. Top Product Category
+Coffee contributed the highest share of revenue ($269K).
+
+**Business Decision:**  
+Launch premium coffee combos and loyalty offers.
+
+---
+
+### 4. Peak Sales Hours
+Most sales happened between 8 AM to 10 AM.
+
+**Business Decision:**  
+Increase morning staff and faster service counters.
+
+---
+
+### 5. Low Afternoon Demand
+Sales decline after lunch hours.
+
+**Business Decision:**  
+Introduce afternoon discount combos.
+
+## Final Recommendation
+The business should focus on coffee products, optimize morning operations, and improve weaker store performance for higher profitability.
